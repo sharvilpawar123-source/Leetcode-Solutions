@@ -16,11 +16,6 @@ public:
                 expected++;
         }
 
-        while (expected <= nums.size()) {
-            ans.push_back(expected);
-            expected++;
-        }
-
         return ans;
     }
 };
