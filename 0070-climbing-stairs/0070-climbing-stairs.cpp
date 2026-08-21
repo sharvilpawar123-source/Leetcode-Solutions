@@ -1,17 +1,18 @@
 class Solution {
 public:
-    int helperDP(int n, vector<int>& f) {
-        if (n <= 2) {
-            return n;
-        }
-        if (f[n] != -1) {
-            return f[n];
-        }
-        return f[n] = helperDP(n - 1, f) + helperDP(n - 2, f);
-    }
-
     int climbStairs(int n) {
-        vector<int> vec(n + 1, -1);
-        return helperDP(n, vec);
+        vector<int> vec(n + 1);
+
+    // base case
+    if(n==1 || n==2 )return n;
+
+
+        vec[0] = 1;  // for n=0 result is 1 // actually not need of this
+        vec[1] = 1;  // for n=1 result is 1
+        vec[2] = 2;   // for n=2 result is 2
+        for (int i = 3; i <=n; i++) {
+            vec[i] = vec[i - 1] + vec[i - 2];
+        }
+        return vec[n];
     }
 };
