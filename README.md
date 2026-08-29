@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
