@@ -16,7 +16,7 @@ public:
                 j--;
             }
             ans += (sum % 2) + '0';
-            carry = sum / 2;
+            carry = (sum > 1) ? 1 : 0;
         }
         reverse(ans.begin(), ans.end());
 
