@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
