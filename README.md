@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -22,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
