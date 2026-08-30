@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
