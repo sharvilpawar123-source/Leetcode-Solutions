@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
