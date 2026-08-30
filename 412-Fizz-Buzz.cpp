@@ -20,12 +20,7 @@ public:
         i++;
 
     }
-    
-    // for 1-indexed
-    vector<string>ans1;
-    for(int i=1;i<ans.size();i++){
-        ans1.push_back(ans[i]);
-    }
-    return ans1;
+    // fro 1-indexed requirement
+    return vector<string>(ans.begin()+1,ans.end());
     }
 };
