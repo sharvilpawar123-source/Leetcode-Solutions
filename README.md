@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -92,9 +94,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
