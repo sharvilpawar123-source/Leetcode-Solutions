@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0654-maximum-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
