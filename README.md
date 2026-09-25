@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
