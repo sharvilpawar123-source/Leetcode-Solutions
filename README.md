@@ -78,16 +78,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
