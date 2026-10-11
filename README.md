@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
