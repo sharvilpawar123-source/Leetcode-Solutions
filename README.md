@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
