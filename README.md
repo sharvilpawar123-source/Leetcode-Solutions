@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## DP on Trees
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Stack
 |  |
