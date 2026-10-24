@@ -5,14 +5,13 @@ public:
         for(int i=0;i<matrix.size();i++){
             int count=0;
             for(int j=0;j<matrix[0].size();j++){
-                if(matrix[i][j]==1){
-                    count++;
+                    count+=matrix[i][j];
                 }
-            }
             l.push_back(count);
+            }
 
-        }
         return l;
-    }
+        }
+    
 };
 
