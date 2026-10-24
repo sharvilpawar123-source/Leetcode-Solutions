@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
