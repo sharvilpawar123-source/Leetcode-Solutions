@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -257,9 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
