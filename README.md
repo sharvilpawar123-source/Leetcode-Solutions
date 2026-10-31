@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1507-reformat-date](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1507-reformat-date) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
