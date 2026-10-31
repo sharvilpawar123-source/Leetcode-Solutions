@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0654-maximum-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1254-number-of-closed-islands](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
