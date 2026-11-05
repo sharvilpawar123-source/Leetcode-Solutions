@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -107,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
