@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1507-reformat-date) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
