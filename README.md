@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
