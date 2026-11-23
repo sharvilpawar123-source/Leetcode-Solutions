@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -309,5 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
