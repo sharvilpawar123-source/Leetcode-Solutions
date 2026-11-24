@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1922-count-good-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Database
 |  |
 | ------- |
