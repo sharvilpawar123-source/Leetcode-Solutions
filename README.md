@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sharvilpawar123-source/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
